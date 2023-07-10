@@ -10,3 +10,13 @@ h1{
     font-size: 30px;
     text-align: justify;
 }
+.titulo{
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+}
+.parrafos{
+    color: #a31212;
+    text-align: justify;
+    font-size: 30px;
+}
